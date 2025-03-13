@@ -4,7 +4,7 @@
 
 A **Client** provides access to a subset of **Actions**. 
 
-> A **Client** in the context of viem is similar to an [Ethers.js Provider](https://docs.ethers.org/v5/api/providers/).
+> A **Client** in the context of viem is similar to an [Ethers.js Provider](https://docs.ethers.org/v6/api/providers/).
 
 There are three types of **Clients** in viem:
 
